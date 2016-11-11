@@ -66,7 +66,7 @@ This is a maven archetype project. You can use this project artifact to create a
 ### Install
 Note that it is one line command. Use `\` if you want to do line breaking the command. For Windows, use caret `^` for command line breaking instead.
 
-    mvn install:install-file -Dfile=vanilla-archetype-mmmp-1.0.jar -DgroupId=com.sankholin -DartifactId=vanilla-archetype-mmmp -Dversion=1.0 -Dpackaging=jar
+    mvn install:install-file -Dfile=vanilla-archetype-mmmp-1.1.jar -DgroupId=com.sankholin -DartifactId=vanilla-archetype-mmmp -Dversion=1.1 -Dpackaging=jar
 
 ### Uninstall
 
