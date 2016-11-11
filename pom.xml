@@ -6,7 +6,7 @@
 
     <groupId>com.sankholin</groupId>
     <artifactId>vanilla-archetype-mmmp</artifactId>
-    <version>1.0</version>
+    <version>1.1</version>
     <name>vanilla-archetype-mmmp</name>
     <url>http://www.sankholin.com</url>
     <description>Multi-modules Maven Project Archetype</description>
